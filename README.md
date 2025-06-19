@@ -4,8 +4,8 @@
 This project focuses on predicting wine quality based on its physicochemical properties using various tree ensemble machine learning methods. It explores the effectiveness and efficiency of different models, including Gradient Boosting, XGBoost, Random Forest, AdaBoost, and Extremely Randomized Trees, on a small and noisy dataset of red and white wines.
 
 ## Project Contents
-* **Analysis Code & Data Loading:** `wine_quality_prediction.ipynb` - The Google Colab notebook containing all the Python code for data loading (directly from public URLs), preprocessing, model training, evaluation, and hyperparameter tuning.
-    * **Click here to open and run the notebook directly in Google Colab:** 
+* **Analysis Code & Data Loading:** `Data_Mining_Final_Project_Submission_Code` - The Google Colab notebook containing all the Python code for data loading (directly from public URLs), preprocessing, model training, evaluation, and hyperparameter tuning.
+    * **Click here to open and run the notebook directly in Google Colab:** https://github.com/VarunNookala657/Wine-Quality-Prediction/blob/main/Data_Mining_Final_Project_Submission_Code.ipynb
 
 ---
 
