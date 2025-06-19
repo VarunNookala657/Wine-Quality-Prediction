@@ -4,7 +4,7 @@
 This project focuses on predicting wine quality based on its physicochemical properties using various tree ensemble machine learning methods. It explores the effectiveness and efficiency of different models, including Gradient Boosting, XGBoost, Random Forest, AdaBoost, and Extremely Randomized Trees, on a small and noisy dataset of red and white wines.
 
 ## Project Contents
-* **Analysis Code & Data Loading:** `Data_Mining_Final_Project_Submission_Code` - The Google Colab notebook containing all the Python code for data loading (directly from public URLs), preprocessing, model training, evaluation, and hyperparameter tuning.
+* **Analysis Code & Data Loading:** `Data_Mining_Final_Project_Submission_Code.ipynb` - The Google Colab notebook containing all the Python code for data loading (directly from public URLs), preprocessing, model training, evaluation, and hyperparameter tuning.
     * **Click here to open and run the notebook directly in Google Colab:** https://github.com/VarunNookala657/Wine-Quality-Prediction/blob/main/Data_Mining_Final_Project_Submission_Code.ipynb
 
 ---
@@ -48,11 +48,11 @@ In terms of quality of wine, we were able to create several relatively powerful 
 ## How to Reproduce the Analysis
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/Wine-Quality-Prediction-ML.git
-    cd Wine-Quality-Prediction-ML
+    git clone [https://github.com/](https://github.com/)[YourUsername]/Wine-Quality-Prediction.git
+    cd Wine-Quality-Prediction
     ```
 2.  **Open in Google Colab:**
-    * Navigate to the `notebooks/` folder (or the root if you didn't create a folder) and click on `wine_quality_prediction.ipynb`.
+    * Navigate to the `notebooks/` folder (or the root if you didn't create a folder) and click on `Data_Mining_Final_Project_Submission_Code.ipynb`.
     * Click the "Open in Colab" button at the top of the GitHub preview page to open it directly in Google Colab. The notebook will automatically download the necessary datasets from their online URLs.
 
 ## Technologies Used
